@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    text-align: left;
+    background-color: #1F2937;
+}
+.hero-subwrapper{
+    margin-top: 60px;
+}
+.hero-subwrapper h1{
+    color: #FFFFFF;
+    font-family: Karla;
+    font-weight: 800;
+    margin: 20px 10px 0px 50px;
+}
+.hero-subwrapper h4{
+    margin: 10px 10px 0px 50px;
+    color: #D5D4D8;
+    font-family: Inter;
+    font-weight: 400;
+}
+span{
+    text-decoration: none;
+    color: #4ADF86;
+}
+hr{
+    border: 1px solid #2F3E53;
+    border-radius: 10px;
+    margin: 30px 50px 30px 50px;
+}
+button{
+    color: white;
+    width: 200px;
+    background-color: #10B981;
+    border: none;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 50px 10px 0px 50px;
+}
+.passwordGen{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.passwords{
+    text-align: center;
+    color: #55F991;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    width: 221px;
+    background-color: #273549;
+    border: 1px solid #273549;
+    border-radius: 5px;
+    margin-left: 30px;
+    padding: 5px 10px 5px 10px;
+}
+input{
+    background: #273549;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+    width: 200px;
+    margin: 10px 0px 0px 0px;
+}
+#inputTitle{
+    font-size: 15px;
+    background-color: #273549;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 60px;
+}
+.inputField{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
